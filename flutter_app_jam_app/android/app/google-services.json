@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480334582103",
+    "project_id": "fluuter-app-jam-app",
+    "storage_bucket": "fluuter-app-jam-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480334582103:android:639f748f4a416c7adcee12",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_jam_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuQD2dOhIVsCms-UgYmvcvgmBXwiSm4vQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
